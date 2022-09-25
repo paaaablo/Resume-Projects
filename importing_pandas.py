@@ -6,4 +6,4 @@ Created on Sat Sep 24 21:13:28 2022
 """
 
 import pandas as pd
-
+import numpy as np
